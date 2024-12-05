@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Dung</h1>
 <h3 align="center">A developer from Ha Noi</h3>
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprompti.ai%2Fcool-coder-logo%2F&psig=AOvVaw0e8VzRdZlylgc8DPitZeQR&ust=1733500927152000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCSk7WAkYoDFQAAAAAdAAAAABAE" alt="Coder Image" width="150" />
+</p>
+
 - 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently learning **...**
