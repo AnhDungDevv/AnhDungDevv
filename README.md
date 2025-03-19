@@ -16,7 +16,7 @@
 - 🤝 I’m looking for help with **Advanced System Design**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/your-profile)
 - 📝 I regularly write articles on [Blog](https://your-blog.com)
-- 💬 Ask me about **React, Flutter, Python, JavaScript, DevOps**
+- 💬 Ask me about **React, Flutter, Python, JavaScript, DevOps, Go**
 - 📄 Know about my experiences [Portfolio](https://your-portfolio.com)
 
 ---
